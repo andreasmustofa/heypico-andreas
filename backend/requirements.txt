@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ollama
+requests
+python-dotenv
+slowapi
+googlemaps
